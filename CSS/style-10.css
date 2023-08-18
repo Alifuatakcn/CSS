@@ -1,0 +1,19 @@
+/* Genel olarak tüm link lerin stillerini değiştirmek için kullanılır*/
+a{
+    color: green;
+}
+/* Sadece ziyaret edilmemiş stillerini değiştirmek için kullanılır*/
+
+a:link{
+    color: chocolate;
+}
+/* Ziyaret edilmiş link lerin stillerini değiştirmek için kullanılır*/
+
+a:visited{
+    color: rgb(37, 9, 158);
+}
+
+.title:hover{
+    color: red;
+    cursor: crosshair;
+}

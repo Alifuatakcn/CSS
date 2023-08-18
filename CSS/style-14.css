@@ -1,0 +1,27 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+nav.main-menu{
+    background-color: greenyellow;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+}
+
+.main-menu-ul{
+
+    list-style-type: '🐪';
+    padding: 0;
+    list-style-position: inside;
+}
+
+.main-menu-link{
+    padding: 5px;
+}
+
+.main-menu-link:hover{
+    color: white;
+    background-color: chocolate;
+}

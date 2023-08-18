@@ -1,0 +1,32 @@
+/* Açıklama satırı */
+
+h1.baslik{
+
+    color: yellow ;
+}
+
+.baslik{
+    color: green ;
+}
+
+h1{
+
+    color: aqua ;
+}
+
+*{
+
+    color: violet ;
+}
+h1.baslik{
+
+    color: orangered ;
+}
+h1.renk{
+
+    color: darkviolet ;
+}
+h1.baslik.renk{
+
+    color: burlywood ;
+}
