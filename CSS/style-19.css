@@ -1,0 +1,15 @@
+:root{
+    --color1: green;
+    --color2: yellow;
+}
+
+.title{
+    color: var(--color2);
+}
+
+.about{
+    background-color: var(--color1);
+}
+mark{
+    background-color: var(--color2);
+}

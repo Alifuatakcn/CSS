@@ -7,3 +7,7 @@ h1{
 .about{
     text-align: center;
 }
+a:hover{
+    background-color: red;
+    text-align: center;
+}
