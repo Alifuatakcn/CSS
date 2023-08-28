@@ -1,0 +1,14 @@
+p.about::first-letter{
+    font-size: 2rem;
+    padding: 15px;
+}
+p.about::first-line{
+    color: red;
+}
+p.about::selection{
+    color: gray;
+}
+.title::after{
+    content: "<";
+    background-color: red;
+}

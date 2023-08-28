@@ -1,0 +1,13 @@
+.custom-checkbox input[type="checkbox"]{
+    display: none;
+}
+.custom-checkbox label{
+    cursor: pointer;
+}
+.custom-checkbox label::before{
+    content: "";
+    display: inline;
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+}
