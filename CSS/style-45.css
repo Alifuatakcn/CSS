@@ -1,0 +1,14 @@
+.kutu{
+    width: 200px;
+    height: 200px;
+    margin: 20 auto;
+    align-items: center;
+}
+.kutu1{
+    background-color: red;
+    transition: background-color green;
+}
+.kutu1:hover{
+    background-color: yellow;
+    transform: rotate(30deg);
+}
